@@ -1,9 +1,7 @@
 ## Hi, I'm Owen
-Computer Science student at Texas A&M University.
+Computer Scientist at Texas A&M University.
 
 <!--
-**evwooo/evwooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
