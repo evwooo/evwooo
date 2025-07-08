@@ -1,6 +1,8 @@
 ## Hi, I'm Owen
 
-I'm a Computer Science student at Texas A&M University.
+Computer Science student at Texas A&M University.
+Currently learning Full-Stack development.
+Soon to be AWS Cloud Practitioner.
 
 <!--
 **evwooo/evwooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
