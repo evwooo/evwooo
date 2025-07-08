@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Owen
 
 I'm a Computer Science student at Texas A&M University.
 
