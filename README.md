@@ -1,5 +1,5 @@
 ## Hi, I'm Owen
-Computer Scientist at Texas A&M University.
+CS @ Texas A&M
 
 <!--
 Here are some ideas to get you started:
